@@ -1,4 +1,4 @@
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -511,7 +511,7 @@
             <div class="card">
                 <div class="card-icon">🖊️</div>
                 <h3>Inscripciones</h3>
-                <p>Cursos de formación, actividades deportivas y ofertas de empleo.</p>
+                <p>Cursos de formation, actividades deportivas y ofertas de empleo.</p>
             </div>
             <div class="card">
                 <div class="card-icon">🎟️</div>
